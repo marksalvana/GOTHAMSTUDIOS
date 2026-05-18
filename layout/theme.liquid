@@ -86,7 +86,7 @@
       endif
     -%}
 
-    <main id='MainContent' class='template-{{ template.name }}' role='main'>
+    <main id='MainContent' class='template-{{ template.name }}{% if template.suffix != blank %} template-{{ template.suffix }}{% endif %}' role='main'>
       {{ content_for_layout }}
     </main>
 
