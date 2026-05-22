@@ -1,0 +1,145 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "body-text",
+            "uppercase": true
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "variant-picker": {
+          "type": "variant-picker",
+          "settings": {
+            "show_unavailable_variants_indicator": false,
+            "option_type": "button",
+            "color_option_type": "button"
+          }
+        },
+        "stock-availability": {
+          "type": "stock-availability",
+          "disabled": true,
+          "settings": {
+            "hide_in_stock_label": true,
+            "icon_style": "default",
+            "low_inventory_threshold": 3,
+            "enable_label_colors": false,
+            "color_in_stock": "#428445",
+            "color_low_stock": "#ffb800",
+            "color_no_stock": "#ff0000"
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_dynamic_checkout_buttons": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "style": "button-and-icons",
+            "text": "Share",
+            "button_style": "subdued"
+          }
+        }
+      },
+      "block_order": [
+        "text",
+        "title",
+        "price",
+        "description",
+        "variant-picker",
+        "stock-availability",
+        "buy-buttons",
+        "share"
+      ],
+      "settings": {
+        "layout": "fixed-soft",
+        "enable_sticky_media_large": false,
+        "media_thumbnails_position_large": "left",
+        "enable_thumbnails_mobile": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "animation": "fade",
+        "padding_top": 0.5,
+        "padding_bottom": 0.5,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "layout": "fixed-soft",
+        "limit": 3,
+        "slider_large": true,
+        "slider_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0.5,
+        "center_text": true,
+        "title": "You may also like",
+        "image_container_ratio": "square",
+        "fit_image_to_container": false,
+        "image_padding": 5,
+        "enable_second_image_on_hover": false,
+        "color_scheme": "soft-background",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "disabled": true,
+      "settings": {
+        "style": "open",
+        "enable_quick_view": false,
+        "enable_clear_history": true,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_background": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-recommendations",
+    "recently-viewed-products"
+  ]
+}
