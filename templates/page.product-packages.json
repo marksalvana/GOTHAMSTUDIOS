@@ -395,9 +395,9 @@
         "padding_top": 1,
         "padding_bottom": 0,
         "center_text": true,
-        "title": "LIFESTYLE PRODUCT PACK",
+        "title": "+Add Ons",
         "heading_size": "h2",
-        "text": "<p>Styled product photography with model involvement. Ideal for branding, campaigns and social content.</p>",
+        "text": "<p>Add additional products, images or service to your product photography package.</p>",
         "text_style": "large-subtext",
         "button_large": "bottom",
         "button_mobile": "top",
@@ -445,6 +445,7 @@
       "block_order": [
         "slide_FT9AqD"
       ],
+      "disabled": true,
       "settings": {
         "fixed_width": true,
         "soft_background": true,
