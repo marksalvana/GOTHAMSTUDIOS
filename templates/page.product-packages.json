@@ -377,6 +377,43 @@
         "color_gradient": ""
       }
     },
+    "featured_products_hifnip": {
+      "type": "featured-products",
+      "name": "Featured products",
+      "settings": {
+        "layout": "fixed-soft",
+        "products": [
+          "add-on-additional-image",
+          "add-on-additional-product",
+          "add-on-advanced-retouching",
+          "add-on-express-turnaround"
+        ],
+        "slider_large": false,
+        "slider_mobile": true,
+        "columns_large": "4",
+        "columns_mobile": "1",
+        "padding_top": 1,
+        "padding_bottom": 0,
+        "center_text": true,
+        "title": "LIFESTYLE PRODUCT PACK",
+        "heading_size": "h2",
+        "text": "<p>Styled product photography with model involvement. Ideal for branding, campaigns and social content.</p>",
+        "text_style": "large-subtext",
+        "button_large": "bottom",
+        "button_mobile": "top",
+        "button_label": "",
+        "button_link": "",
+        "image_container_ratio": "square",
+        "fit_image_to_container": false,
+        "image_padding": 5,
+        "enable_second_image_on_hover": true,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
     "hero_MhCwQh": {
       "type": "hero",
       "blocks": {
@@ -606,6 +643,7 @@
     "text_columns_NKepnd",
     "featured_products_UVgh6r",
     "featured_products_ah6Haz",
+    "featured_products_hifnip",
     "hero_MhCwQh",
     "collapsible_content_zcEXAJ",
     "hero_PmTeLL",
