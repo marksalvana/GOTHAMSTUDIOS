@@ -1,1 +1,614 @@
-{"sections":{"rich_text_rdHadM":{"type":"rich-text","blocks":{"heading_fGKMyw":{"type":"heading","settings":{"title":"{{ page.title }}","size":"h1"}},"text_LAqiiA":{"type":"text","settings":{"text":"{{ page.content }}","style":"text"}},"buttons_P7WYaA":{"type":"buttons","settings":{"first_button_label":"","first_button_link":"","first_button_style":false,"second_button_label":"","second_button_link":"","second_button_style":true}}},"block_order":["heading_fGKMyw","text_LAqiiA","buttons_P7WYaA"],"name":"Rich text","settings":{"full_width":false,"text_position":"center center","overlay":30,"image_height_large":"medium","image_height_mobile":"medium","enable_parallax":false,"padding_top":1,"padding_bottom":0.5,"soft_background":true,"color_scheme":"default-with-accent-1","custom_colors":false,"color_foreground":"#061c2f","color_accent":"#0d91bd","color_background":"#ffffff","color_gradient":""}},"hero_9Rkh4q":{"type":"hero","blocks":{"slide_aL443L":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/gotham-studios_BW.jpg","subheading":"Gotham Studios","title":"Our Story","text":"<p>It started with three creatives and a bold idea: build a photography studio that brought people, brands, and design together under one roof. In a converted warehouse on Wangaratta Street, Richmond, <strong>Gotham Studios Melbourne<\/strong> was born.<\/p><p>Five studios. Eleven photographers. Graphic and web teams. A working darkroom. Big-name fashion events. The kind of space where Claudia Schiffer could glide between magazine shoots without missing a beat.<\/p><p>It was electric. Collaborative. Way ahead of its time.<br\/>We became known not just for our images, but for being the place to be.<br\/>But time, as we know, changes everything.<\/p><p>As the industry shifted, digital platforms rose, brands moved faster, budgets tightened, and DIY imagery flooded the market.” Clients began asking:<br\/>“Can we simplify the process?”<br\/>“Can you help us stay on budget, on time?”<br\/>We listened.<\/p><p>So we did something no one else had: <strong>we launched Melbourne’s first prepaid headshot packages<\/strong>. It was a game-changing model—simple, fixed pricing that removed the guesswork from hiring a professional photographer and put our clients back in control. Suddenly, creatives and corporations alike could plan confidently.<\/p><p>Then something unexpected happened: <strong>overseas clients started coming to us.<\/strong><\/p><p>Today, brands from around the world choose us as their trusted creative partner. From casting and creative direction to full production and retouching, we handle it all—right here in Melbourne. They never have to step on set. And yet, they get world-class visuals that look like they did.<\/p><p>Because while we’ve evolved, our core remains the same: <strong>We believe that good quality photography should be available to everyone.<\/strong><\/p><p>No one should miss out on the chance to work with a professional, whether you're a startup founder needing a great headshot or a brand launching your next big product overseas.<\/p><p>That belief still drives everything we do.<br\/> It’s why our prepaid model exists.<br\/> It’s why we keep our pricing transparent.<br\/>And it’s why we’re still the trusted partner for professionals and B2B brands 26 years on.<\/p><p>So if you’re ready for photography that respects your time, your budget, and your brand, let’s make it easy. <\/p><p><strong>Gotham Studios Melbourne. We are your photographers.<\/strong><\/p>","text_size":"medium","text_position_large":"center start","text_position_mobile":"start","first_button_label":"BOOK YOUR FREE CONSULT →","first_button_link":"shopify:\/\/pages\/contact","first_button_arrow_style":false,"second_button_label":"VIEW PORTFOLIO","second_button_link":"shopify:\/\/pages\/portfolio","second_button_arrow_style":false,"color_scheme":"default-with-accent-1","custom_colors":false,"color_foreground":"#061c2f","color_accent":"#0d91bd","color_background":"#ffffff","color_gradient":""}},"slide_UYVtdK":{"type":"slide","settings":{"subheading":"Subheading","title":"Hero","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","text_size":"medium","text_position_large":"center start","text_position_mobile":"start","first_button_label":"","first_button_link":"","first_button_arrow_style":false,"second_button_label":"","second_button_link":"","second_button_arrow_style":true,"color_scheme":"default-with-accent-1","custom_colors":false,"color_foreground":"#061c2f","color_accent":"#0d91bd","color_background":"#ffffff","color_gradient":""}}},"block_order":["slide_aL443L","slide_UYVtdK"],"disabled":true,"name":"Hero","settings":{"fixed_width":true,"soft_background":true,"height_large":"medium","height_mobile":"medium","padding_top":1,"padding_bottom":1,"text_below_image_mobile":true,"image_padding":true,"image_offset":false,"enable_parallax":false,"image_background":false,"overlay":40,"animation":"swipe","maintain_text_first_slide":true,"maintain_background_color_first_slide":false,"auto_play":false,"auto_play_delay":5}},"main":{"type":"main-page","disabled":true,"settings":{"layout":"fixed-soft","width":"small","padding_top":1,"padding_bottom":1,"show_heading":true,"color_scheme":"default-with-accent-1","custom_colors":false,"color_foreground":"#061c2f","color_accent":"#f77d0b","color_background":"#ffffff","color_gradient":""}},"media_collage_YdLqKQ":{"type":"media-collage","blocks":{"image_T7wxCr":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IW4041011_D.jpg","enable_parallax":false}},"image_F8xxbU":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/GSM_HOGS-DOGS-QUADS_productphotography-0027_retouched.jpg","enable_parallax":false}},"image_WYzrEj":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/UVSANIFYproductphotography-1007200025-0200_RETOUCHED-01.jpg","enable_parallax":false}}},"block_order":["image_T7wxCr","image_F8xxbU","image_WYzrEj"],"name":"Media collage","settings":{"layout":"fixed-soft","height":"large","first_media_position_large":"left","content_position_large":"overlaid","content_position_mobile":"below","overlay":0,"blur":0,"inverse_colors":true,"padding_top":0,"padding_bottom":1,"center_text":true,"title":"","text":"","text_size":"medium","button_label":"","button_link":"","button_style":false,"color_scheme":"default","custom_colors":false,"color_foreground":"#061C2F","color_background":"#FFFFFF","color_gradient":""}},"text_columns_NKepnd":{"type":"text-columns","blocks":{"text_column_fqmLYB":{"type":"text-column","settings":{"title":"1. Choose your package","text":"<p>Select the option that suits your product and purchase online.<\/p>","button_label":"","button_link":""}},"text_column_aTCarX":{"type":"text-column","settings":{"title":"2. Complete your brief","text":"<p>Tell us exactly how you want your product photographed.<\/p>","button_label":"","button_link":""}},"text_column_hyGUkj":{"type":"text-column","settings":{"title":"3. Send your product","text":"<p>Ship your item to our studio using tracked delivery.<\/p>","button_label":"","button_link":""}},"text_column_cpbdqC":{"type":"text-column","settings":{"title":"4. We photograph your product","text":"<p>All shoots are completed in-studio with professional lighting and direction.<\/p>","button_label":"","button_link":""}},"text_column_YGAc49":{"type":"text-column","settings":{"title":"5. Download your images","text":"<p>Final images are delivered via secure download link.<\/p>","button_label":"","button_link":""}},"text_column_3kiYVJ":{"type":"text-column","settings":{"title":"6. Product return","text":"<p>Your product is returned using your provided return satchel.n.<\/p>","button_label":"","button_link":""}}},"block_order":["text_column_fqmLYB","text_column_aTCarX","text_column_hyGUkj","text_column_cpbdqC","text_column_YGAc49","text_column_3kiYVJ"],"name":"Text columns with images","settings":{"layout":"full","slider_large":false,"slider_mobile":true,"columns_large":"3","image_ratio":"landscape","image_width":"1","image_padding":false,"padding_top":1,"padding_bottom":1,"center_heading_text":true,"title":"HOW IT WORKS","subheading":"","center_body_text":true,"button_label":"","button_link":"","button_style":false,"soft_background":"column","color_scheme":"default","custom_colors":false,"color_foreground":"#061c2f","color_accent":"#0d91bd","color_background":"#ffffff","color_gradient":""}},"featured_products_UVgh6r":{"type":"featured-products","name":"Featured products","settings":{"layout":"fixed-soft","products":["studio-product-pack","studio-product-pack-growth","studio-product-pack-brand-set"],"slider_large":false,"slider_mobile":true,"columns_large":"3","columns_mobile":"1","padding_top":1,"padding_bottom":0,"center_text":true,"title":"STUDIO PRODUCT PACK","heading_size":"h2","text":"<p>Clean, high-end imagery on a simple background. Ideal for eCommerce, websites and catalogues.<br\/><\/p>","text_style":"large-subtext","button_large":"bottom","button_mobile":"top","button_label":"","button_link":"","image_container_ratio":"square","fit_image_to_container":false,"image_padding":5,"enable_second_image_on_hover":true,"color_scheme":"default","custom_colors":false,"color_foreground":"#061C2F","color_background":"#FFFFFF","color_gradient":""}},"featured_products_ah6Haz":{"type":"featured-products","name":"Featured products","settings":{"layout":"fixed-soft","products":[],"slider_large":false,"slider_mobile":true,"columns_large":"3","columns_mobile":"1","padding_top":1,"padding_bottom":0,"center_text":true,"title":"LIFESTYLE PRODUCT PACK","heading_size":"h2","text":"<p>Styled product photography with model involvement. Ideal for branding, campaigns and social content.<\/p>","text_style":"large-subtext","button_large":"bottom","button_mobile":"top","button_label":"","button_link":"","image_container_ratio":"square","fit_image_to_container":false,"image_padding":5,"enable_second_image_on_hover":true,"color_scheme":"default","custom_colors":false,"color_foreground":"#061C2F","color_background":"#FFFFFF","color_gradient":""}},"hero_MhCwQh":{"type":"hero","blocks":{"slide_FT9AqD":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Recovery_Eye_Cream-Wide.jpg","subheading":"Product Packages","title":"+ADD ONS","text":"<ul><li>Additional product (same shoot): $125 per product<\/li><li>Additional image: $45 per image<\/li><li>Advanced retouching: from $35 per image<\/li><li>Express turnaround (48 hours): $150<\/li><li>Complex styling \/ props: quoted as required<\/li><\/ul>","text_size":"medium","text_position_large":"center start","text_position_mobile":"start","first_button_label":"VIEW PACKAGES","first_button_link":"shopify:\/\/collections\/studio-product-pack","first_button_arrow_style":false,"second_button_label":"","second_button_link":"https:\/\/www.eventbrite.com.au\/e\/1295308656059\/?discount=GGOSTCVIP","second_button_arrow_style":false,"color_scheme":"default-with-accent-1","custom_colors":false,"color_foreground":"#061c2f","color_accent":"#0d91bd","color_background":"#ffffff","color_gradient":""}}},"block_order":["slide_FT9AqD"],"settings":{"fixed_width":true,"soft_background":true,"height_large":"medium","height_mobile":"medium","padding_top":1,"padding_bottom":1,"text_below_image_mobile":true,"image_padding":false,"image_offset":false,"enable_parallax":false,"image_background":false,"overlay":40,"animation":"swipe","maintain_text_first_slide":true,"maintain_background_color_first_slide":false,"auto_play":false,"auto_play_delay":5}},"collapsible_content_zcEXAJ":{"type":"collapsible-content","blocks":{"row_ecJwpT":{"type":"row","settings":{"title":"Can I send multiple products?","text":"<p>Yes. Each additional product is charged separately.<\/p>","page":""}},"row_j49hLR":{"type":"row","settings":{"title":"Can I art direct the shoot?","text":"<p>Yes. Your brief form allows you to guide the shoot, including references and preferences.<\/p>","page":""}},"row_EcCRWA":{"type":"row","settings":{"title":"What backgrounds are included?","text":"<p>Clean white or simple studio backgrounds. Custom setups may incur additional costs.<\/p>","page":""}},"row_cG4weY":{"type":"row","settings":{"title":"What if I need revisions?","text":"<p>One round of minor adjustments is included. Additional edits are charged.<\/p>","page":""}},"row_ziKJz7":{"type":"row","settings":{"title":"Do you return products?","text":"<p>Yes, using your provided return satchel.<\/p>","page":""}}},"block_order":["row_ecJwpT","row_j49hLR","row_EcCRWA","row_cG4weY","row_ziKJz7"],"name":"Collapsible content","settings":{"layout":"full","row_style":"collapsed","padding_top":1,"padding_bottom":1,"center_heading_text":true,"title":"FAQ","heading_size":"h2","text":"","text_style":"large-subtext","center_body_text":false,"color_scheme":"default-with-accent-1","custom_colors":false,"color_foreground":"#061C2F","color_accent":"#0D91BD","color_background":"#FFFFFF","color_gradient":""}},"hero_PmTeLL":{"type":"hero","blocks":{"slide_JaNd4J":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/GSM_BROGHAN_S_WAY_DISTILLERY_lifestyle_photography_APRIL_24-240424_0001.jpg","subheading":"Product Packages","title":"IMPORTANT INFORMATION","text":"<ul><li>All packages are <strong>per product<\/strong><\/li><li>All bookings are <strong>prepaid and non-refundable<\/strong><\/li><li>Turnaround time: <strong>5–10 business days from receipt of product<\/strong><\/li><li>Products must be delivered ready to shoot<\/li><li>Return shipping must be included with your product<\/li><\/ul>","text_size":"medium","text_position_large":"center start","text_position_mobile":"start","first_button_label":"VIEW PACKAGES","first_button_link":"shopify:\/\/collections\/studio-product-pack","first_button_arrow_style":false,"second_button_label":"VIEW PACKAGES PORTFOLIO","second_button_link":"shopify:\/\/pages\/product-photography-portfolio","second_button_arrow_style":false,"color_scheme":"default-with-accent-1","custom_colors":false,"color_foreground":"#061c2f","color_accent":"#0d91bd","color_background":"#ffffff","color_gradient":""}}},"block_order":["slide_JaNd4J"],"settings":{"fixed_width":true,"soft_background":true,"height_large":"medium","height_mobile":"medium","padding_top":1,"padding_bottom":1,"text_below_image_mobile":true,"image_padding":false,"image_offset":false,"enable_parallax":false,"image_background":false,"overlay":40,"animation":"swipe","maintain_text_first_slide":true,"maintain_background_color_first_slide":false,"auto_play":false,"auto_play_delay":5}},"rich_text_j3QN7X":{"type":"rich-text","blocks":{"heading_WKr9LU":{"type":"heading","settings":{"title":"Gotham Studios Melbourne. We are your photographers.","size":"h1"}},"buttons_nUr7Mx":{"type":"buttons","settings":{"first_button_label":"BOOK YOUR FREE CONSULT","first_button_link":"shopify:\/\/pages\/contact","first_button_style":false,"second_button_label":"","second_button_link":"","second_button_style":true}}},"block_order":["heading_WKr9LU","buttons_nUr7Mx"],"disabled":true,"name":"Rich text","settings":{"full_width":true,"text_position":"center center","image":"shopify:\/\/shop_images\/GSM_CONTIGO_TESCO_SOCIAL_0009.jpg","overlay":50,"image_height_large":"medium","image_height_mobile":"medium","enable_parallax":false,"padding_top":1,"padding_bottom":1,"soft_background":false,"color_scheme":"default-with-accent-1","custom_colors":false,"color_foreground":"#061c2f","color_accent":"#0d91bd","color_background":"#ffffff","color_gradient":""}}},"order":["rich_text_rdHadM","hero_9Rkh4q","main","media_collage_YdLqKQ","text_columns_NKepnd","featured_products_UVgh6r","featured_products_ah6Haz","hero_MhCwQh","collapsible_content_zcEXAJ","hero_PmTeLL","rich_text_j3QN7X"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich_text_rdHadM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_fGKMyw": {
+          "type": "heading",
+          "settings": {
+            "title": "{{ page.title }}",
+            "size": "h1"
+          }
+        },
+        "text_LAqiiA": {
+          "type": "text",
+          "settings": {
+            "text": "{{ page.content }}",
+            "style": "text"
+          }
+        },
+        "buttons_P7WYaA": {
+          "type": "buttons",
+          "settings": {
+            "first_button_label": "",
+            "first_button_link": "",
+            "first_button_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_style": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_fGKMyw",
+        "text_LAqiiA",
+        "buttons_P7WYaA"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": false,
+        "text_position": "center center",
+        "overlay": 30,
+        "image_height_large": "medium",
+        "image_height_mobile": "medium",
+        "enable_parallax": false,
+        "padding_top": 1,
+        "padding_bottom": 0.5,
+        "soft_background": true,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#f77d0b",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "hero_9Rkh4q": {
+      "type": "hero",
+      "blocks": {
+        "slide_aL443L": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/gotham-studios_BW.jpg",
+            "subheading": "Gotham Studios",
+            "title": "Our Story",
+            "text": "<p>It started with three creatives and a bold idea: build a photography studio that brought people, brands, and design together under one roof. In a converted warehouse on Wangaratta Street, Richmond, <strong>Gotham Studios Melbourne</strong> was born.</p><p>Five studios. Eleven photographers. Graphic and web teams. A working darkroom. Big-name fashion events. The kind of space where Claudia Schiffer could glide between magazine shoots without missing a beat.</p><p>It was electric. Collaborative. Way ahead of its time.<br/>We became known not just for our images, but for being the place to be.<br/>But time, as we know, changes everything.</p><p>As the industry shifted, digital platforms rose, brands moved faster, budgets tightened, and DIY imagery flooded the market.” Clients began asking:<br/>“Can we simplify the process?”<br/>“Can you help us stay on budget, on time?”<br/>We listened.</p><p>So we did something no one else had: <strong>we launched Melbourne’s first prepaid headshot packages</strong>. It was a game-changing model—simple, fixed pricing that removed the guesswork from hiring a professional photographer and put our clients back in control. Suddenly, creatives and corporations alike could plan confidently.</p><p>Then something unexpected happened: <strong>overseas clients started coming to us.</strong></p><p>Today, brands from around the world choose us as their trusted creative partner. From casting and creative direction to full production and retouching, we handle it all—right here in Melbourne. They never have to step on set. And yet, they get world-class visuals that look like they did.</p><p>Because while we’ve evolved, our core remains the same: <strong>We believe that good quality photography should be available to everyone.</strong></p><p>No one should miss out on the chance to work with a professional, whether you're a startup founder needing a great headshot or a brand launching your next big product overseas.</p><p>That belief still drives everything we do.<br/> It’s why our prepaid model exists.<br/> It’s why we keep our pricing transparent.<br/>And it’s why we’re still the trusted partner for professionals and B2B brands 26 years on.</p><p>So if you’re ready for photography that respects your time, your budget, and your brand, let’s make it easy. </p><p><strong>Gotham Studios Melbourne. We are your photographers.</strong></p>",
+            "text_size": "medium",
+            "text_position_large": "center start",
+            "text_position_mobile": "start",
+            "first_button_label": "BOOK YOUR FREE CONSULT →",
+            "first_button_link": "shopify://pages/contact",
+            "first_button_arrow_style": false,
+            "second_button_label": "VIEW PORTFOLIO",
+            "second_button_link": "shopify://pages/portfolio",
+            "second_button_arrow_style": false,
+            "color_scheme": "default-with-accent-1",
+            "custom_colors": false,
+            "color_foreground": "#061c2f",
+            "color_accent": "#0d91bd",
+            "color_background": "#ffffff",
+            "color_gradient": ""
+          }
+        },
+        "slide_UYVtdK": {
+          "type": "slide",
+          "settings": {
+            "subheading": "Subheading",
+            "title": "Hero",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_size": "medium",
+            "text_position_large": "center start",
+            "text_position_mobile": "start",
+            "first_button_label": "",
+            "first_button_link": "",
+            "first_button_arrow_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_arrow_style": true,
+            "color_scheme": "default-with-accent-1",
+            "custom_colors": false,
+            "color_foreground": "#061c2f",
+            "color_accent": "#0d91bd",
+            "color_background": "#ffffff",
+            "color_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_aL443L",
+        "slide_UYVtdK"
+      ],
+      "disabled": true,
+      "name": "Hero",
+      "settings": {
+        "fixed_width": true,
+        "soft_background": true,
+        "height_large": "medium",
+        "height_mobile": "medium",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "text_below_image_mobile": true,
+        "image_padding": true,
+        "image_offset": false,
+        "enable_parallax": false,
+        "image_background": false,
+        "overlay": 40,
+        "animation": "swipe",
+        "maintain_text_first_slide": true,
+        "maintain_background_color_first_slide": false,
+        "auto_play": false,
+        "auto_play_delay": 5
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "layout": "fixed-soft",
+        "width": "small",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "show_heading": true,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#f77d0b",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "media_collage_YdLqKQ": {
+      "type": "media-collage",
+      "blocks": {
+        "image_T7wxCr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IW4041011_D.jpg",
+            "enable_parallax": false
+          }
+        },
+        "image_F8xxbU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/GSM_HOGS-DOGS-QUADS_productphotography-0027_retouched.jpg",
+            "enable_parallax": false
+          }
+        },
+        "image_WYzrEj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/UVSANIFYproductphotography-1007200025-0200_RETOUCHED-01.jpg",
+            "enable_parallax": false
+          }
+        }
+      },
+      "block_order": [
+        "image_T7wxCr",
+        "image_F8xxbU",
+        "image_WYzrEj"
+      ],
+      "name": "Media collage",
+      "settings": {
+        "layout": "fixed-soft",
+        "height": "large",
+        "first_media_position_large": "left",
+        "content_position_large": "overlaid",
+        "content_position_mobile": "below",
+        "overlay": 0,
+        "blur": 0,
+        "inverse_colors": true,
+        "padding_top": 0,
+        "padding_bottom": 1,
+        "center_text": true,
+        "title": "",
+        "text": "",
+        "text_size": "medium",
+        "button_label": "",
+        "button_link": "",
+        "button_style": false,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "text_columns_NKepnd": {
+      "type": "text-columns",
+      "blocks": {
+        "text_column_fqmLYB": {
+          "type": "text-column",
+          "settings": {
+            "title": "1. Choose your package",
+            "text": "<p>Select the option that suits your product and purchase online.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_column_aTCarX": {
+          "type": "text-column",
+          "settings": {
+            "title": "2. Complete your brief",
+            "text": "<p>Tell us exactly how you want your product photographed.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_column_hyGUkj": {
+          "type": "text-column",
+          "settings": {
+            "title": "3. Send your product",
+            "text": "<p>Ship your item to our studio using tracked delivery.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_column_cpbdqC": {
+          "type": "text-column",
+          "settings": {
+            "title": "4. We photograph your product",
+            "text": "<p>All shoots are completed in-studio with professional lighting and direction.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_column_YGAc49": {
+          "type": "text-column",
+          "settings": {
+            "title": "5. Download your images",
+            "text": "<p>Final images are delivered via secure download link.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_column_3kiYVJ": {
+          "type": "text-column",
+          "settings": {
+            "title": "6. Product return",
+            "text": "<p>Your product is returned using your provided return satchel.n.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_column_fqmLYB",
+        "text_column_aTCarX",
+        "text_column_hyGUkj",
+        "text_column_cpbdqC",
+        "text_column_YGAc49",
+        "text_column_3kiYVJ"
+      ],
+      "name": "Text columns with images",
+      "settings": {
+        "layout": "full",
+        "slider_large": false,
+        "slider_mobile": true,
+        "columns_large": "3",
+        "image_ratio": "landscape",
+        "image_width": "1",
+        "image_padding": false,
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "center_heading_text": true,
+        "title": "HOW IT WORKS",
+        "subheading": "",
+        "center_body_text": true,
+        "button_label": "",
+        "button_link": "",
+        "button_style": false,
+        "soft_background": "column",
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "featured_products_UVgh6r": {
+      "type": "featured-products",
+      "name": "Featured products",
+      "settings": {
+        "layout": "fixed-soft",
+        "products": [
+          "studio-product-pack",
+          "studio-product-pack-growth",
+          "studio-product-pack-brand-set"
+        ],
+        "slider_large": false,
+        "slider_mobile": true,
+        "columns_large": "3",
+        "columns_mobile": "1",
+        "padding_top": 1,
+        "padding_bottom": 0,
+        "center_text": true,
+        "title": "STUDIO PRODUCT PACK",
+        "heading_size": "h2",
+        "text": "<p>Clean, high-end imagery on a simple background. Ideal for eCommerce, websites and catalogues.<br/></p>",
+        "text_style": "large-subtext",
+        "button_large": "bottom",
+        "button_mobile": "top",
+        "button_label": "",
+        "button_link": "",
+        "image_container_ratio": "square",
+        "fit_image_to_container": false,
+        "image_padding": 5,
+        "enable_second_image_on_hover": true,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "featured_products_ah6Haz": {
+      "type": "featured-products",
+      "name": "Featured products",
+      "settings": {
+        "layout": "fixed-soft",
+        "products": [
+          "lifestyle-product-pack-lite",
+          "lifestyle-product-pack-pro",
+          "lifestyle-product-pack-campaign"
+        ],
+        "slider_large": false,
+        "slider_mobile": true,
+        "columns_large": "3",
+        "columns_mobile": "1",
+        "padding_top": 1,
+        "padding_bottom": 0,
+        "center_text": true,
+        "title": "LIFESTYLE PRODUCT PACK",
+        "heading_size": "h2",
+        "text": "<p>Styled product photography with model involvement. Ideal for branding, campaigns and social content.</p>",
+        "text_style": "large-subtext",
+        "button_large": "bottom",
+        "button_mobile": "top",
+        "button_label": "",
+        "button_link": "",
+        "image_container_ratio": "square",
+        "fit_image_to_container": false,
+        "image_padding": 5,
+        "enable_second_image_on_hover": true,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "hero_MhCwQh": {
+      "type": "hero",
+      "blocks": {
+        "slide_FT9AqD": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Recovery_Eye_Cream-Wide.jpg",
+            "subheading": "Product Packages",
+            "title": "+ADD ONS",
+            "text": "<ul><li>Additional product (same shoot): $125 per product</li><li>Additional image: $45 per image</li><li>Advanced retouching: from $35 per image</li><li>Express turnaround (48 hours): $150</li><li>Complex styling / props: quoted as required</li></ul>",
+            "text_size": "medium",
+            "text_position_large": "center start",
+            "text_position_mobile": "start",
+            "first_button_label": "VIEW PACKAGES",
+            "first_button_link": "shopify://collections/studio-product-pack",
+            "first_button_arrow_style": false,
+            "second_button_label": "",
+            "second_button_link": "https://www.eventbrite.com.au/e/1295308656059/?discount=GGOSTCVIP",
+            "second_button_arrow_style": false,
+            "color_scheme": "default-with-accent-1",
+            "custom_colors": false,
+            "color_foreground": "#061c2f",
+            "color_accent": "#0d91bd",
+            "color_background": "#ffffff",
+            "color_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_FT9AqD"
+      ],
+      "settings": {
+        "fixed_width": true,
+        "soft_background": true,
+        "height_large": "medium",
+        "height_mobile": "medium",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "text_below_image_mobile": true,
+        "image_padding": false,
+        "image_offset": false,
+        "enable_parallax": false,
+        "image_background": false,
+        "overlay": 40,
+        "animation": "swipe",
+        "maintain_text_first_slide": true,
+        "maintain_background_color_first_slide": false,
+        "auto_play": false,
+        "auto_play_delay": 5
+      }
+    },
+    "collapsible_content_zcEXAJ": {
+      "type": "collapsible-content",
+      "blocks": {
+        "row_ecJwpT": {
+          "type": "row",
+          "settings": {
+            "title": "Can I send multiple products?",
+            "text": "<p>Yes. Each additional product is charged separately.</p>",
+            "page": ""
+          }
+        },
+        "row_j49hLR": {
+          "type": "row",
+          "settings": {
+            "title": "Can I art direct the shoot?",
+            "text": "<p>Yes. Your brief form allows you to guide the shoot, including references and preferences.</p>",
+            "page": ""
+          }
+        },
+        "row_EcCRWA": {
+          "type": "row",
+          "settings": {
+            "title": "What backgrounds are included?",
+            "text": "<p>Clean white or simple studio backgrounds. Custom setups may incur additional costs.</p>",
+            "page": ""
+          }
+        },
+        "row_cG4weY": {
+          "type": "row",
+          "settings": {
+            "title": "What if I need revisions?",
+            "text": "<p>One round of minor adjustments is included. Additional edits are charged.</p>",
+            "page": ""
+          }
+        },
+        "row_ziKJz7": {
+          "type": "row",
+          "settings": {
+            "title": "Do you return products?",
+            "text": "<p>Yes, using your provided return satchel.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_ecJwpT",
+        "row_j49hLR",
+        "row_EcCRWA",
+        "row_cG4weY",
+        "row_ziKJz7"
+      ],
+      "name": "Collapsible content",
+      "settings": {
+        "layout": "full",
+        "row_style": "collapsed",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "center_heading_text": true,
+        "title": "FAQ",
+        "heading_size": "h2",
+        "text": "",
+        "text_style": "large-subtext",
+        "center_body_text": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "hero_PmTeLL": {
+      "type": "hero",
+      "blocks": {
+        "slide_JaNd4J": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/GSM_BROGHAN_S_WAY_DISTILLERY_lifestyle_photography_APRIL_24-240424_0001.jpg",
+            "subheading": "Product Packages",
+            "title": "IMPORTANT INFORMATION",
+            "text": "<ul><li>All packages are <strong>per product</strong></li><li>All bookings are <strong>prepaid and non-refundable</strong></li><li>Turnaround time: <strong>5–10 business days from receipt of product</strong></li><li>Products must be delivered ready to shoot</li><li>Return shipping must be included with your product</li></ul>",
+            "text_size": "medium",
+            "text_position_large": "center start",
+            "text_position_mobile": "start",
+            "first_button_label": "VIEW PACKAGES",
+            "first_button_link": "shopify://collections/studio-product-pack",
+            "first_button_arrow_style": false,
+            "second_button_label": "VIEW PACKAGES PORTFOLIO",
+            "second_button_link": "shopify://pages/product-photography-portfolio",
+            "second_button_arrow_style": false,
+            "color_scheme": "default-with-accent-1",
+            "custom_colors": false,
+            "color_foreground": "#061c2f",
+            "color_accent": "#0d91bd",
+            "color_background": "#ffffff",
+            "color_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_JaNd4J"
+      ],
+      "settings": {
+        "fixed_width": true,
+        "soft_background": true,
+        "height_large": "medium",
+        "height_mobile": "medium",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "text_below_image_mobile": true,
+        "image_padding": false,
+        "image_offset": false,
+        "enable_parallax": false,
+        "image_background": false,
+        "overlay": 40,
+        "animation": "swipe",
+        "maintain_text_first_slide": true,
+        "maintain_background_color_first_slide": false,
+        "auto_play": false,
+        "auto_play_delay": 5
+      }
+    },
+    "rich_text_j3QN7X": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WKr9LU": {
+          "type": "heading",
+          "settings": {
+            "title": "Gotham Studios Melbourne. We are your photographers.",
+            "size": "h1"
+          }
+        },
+        "buttons_nUr7Mx": {
+          "type": "buttons",
+          "settings": {
+            "first_button_label": "BOOK YOUR FREE CONSULT",
+            "first_button_link": "shopify://pages/contact",
+            "first_button_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_style": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_WKr9LU",
+        "buttons_nUr7Mx"
+      ],
+      "disabled": true,
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "text_position": "center center",
+        "image": "shopify://shop_images/GSM_CONTIGO_TESCO_SOCIAL_0009.jpg",
+        "overlay": 50,
+        "image_height_large": "medium",
+        "image_height_mobile": "medium",
+        "enable_parallax": false,
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "soft_background": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "rich_text_rdHadM",
+    "hero_9Rkh4q",
+    "main",
+    "media_collage_YdLqKQ",
+    "text_columns_NKepnd",
+    "featured_products_UVgh6r",
+    "featured_products_ah6Haz",
+    "hero_MhCwQh",
+    "collapsible_content_zcEXAJ",
+    "hero_PmTeLL",
+    "rich_text_j3QN7X"
+  ]
+}
