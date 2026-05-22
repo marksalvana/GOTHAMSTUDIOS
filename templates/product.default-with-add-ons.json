@@ -154,7 +154,7 @@
         "heading_size": "h2",
         "text": "<p>Add additional products, images or service to your product photography package.</p>",
         "text_style": "large-subtext",
-        "enable_view_all": true,
+        "enable_view_all": false,
         "view_all_large": "bottom",
         "view_all_mobile": "top",
         "view_all_link": "",
