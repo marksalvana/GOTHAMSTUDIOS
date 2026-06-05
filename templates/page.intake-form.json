@@ -83,6 +83,30 @@
             "title": "Preferred style",
             "options": "Minimal / Clean, Bright / High Key, Dark / Moody, Lifestyle, Other (specify below)"
           }
+        },
+        "text_field_xJ8BME": {
+          "type": "text-field",
+          "settings": {
+            "required": false,
+            "multi_line_field": false,
+            "title": "Preferred style (other)"
+          }
+        },
+        "dropdown_menu_QieJRt": {
+          "type": "dropdown-menu",
+          "settings": {
+            "required": false,
+            "title": "Background preference",
+            "options": "White, Neutral, Dark, No preference"
+          }
+        },
+        "dropdown_menu_datbdp": {
+          "type": "dropdown-menu",
+          "settings": {
+            "required": false,
+            "title": "Angles / shots required",
+            "options": "Front, Side, Detail, Packaging, Other (text field)"
+          }
         }
       },
       "block_order": [
@@ -94,7 +118,10 @@
         "text_field_KWanCi",
         "dropdown_menu_yXPj8L",
         "dropdown_menu_6jxRzX",
-        "dropdown_menu_ggBQjB"
+        "dropdown_menu_ggBQjB",
+        "text_field_xJ8BME",
+        "dropdown_menu_QieJRt",
+        "dropdown_menu_datbdp"
       ],
       "custom_css": [],
       "settings": {
