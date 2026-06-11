@@ -192,7 +192,7 @@
         "height": "x-large",
         "first_media_position_large": "left",
         "content_position_large": "overlaid",
-        "content_position_mobile": "below",
+        "content_position_mobile": "overlaid",
         "overlay": 0,
         "blur": 0,
         "inverse_colors": true,
