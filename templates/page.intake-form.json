@@ -63,7 +63,7 @@
         "dropdown_menu_yXPj8L": {
           "type": "dropdown-menu",
           "settings": {
-            "required": false,
+            "required": true,
             "title": "Are all products identical?",
             "options": "Yes, No"
           }
@@ -71,7 +71,7 @@
         "dropdown_menu_6jxRzX": {
           "type": "dropdown-menu",
           "settings": {
-            "required": false,
+            "required": true,
             "title": "What type of images do you need?",
             "options": "eCommerce (clean), Branding, Social Media, Advertising"
           }
@@ -79,7 +79,7 @@
         "dropdown_menu_ggBQjB": {
           "type": "dropdown-menu",
           "settings": {
-            "required": false,
+            "required": true,
             "title": "Preferred style",
             "options": "Minimal / Clean, Bright / High Key, Dark / Moody, Lifestyle, Other (specify below)"
           }
@@ -95,17 +95,17 @@
         "dropdown_menu_QieJRt": {
           "type": "dropdown-menu",
           "settings": {
-            "required": false,
+            "required": true,
             "title": "Background preference",
             "options": "White, Neutral, Dark, No preference"
           }
         },
-        "dropdown_menu_datbdp": {
-          "type": "dropdown-menu",
+        "text_field_Ly64Cg": {
+          "type": "text-field",
           "settings": {
-            "required": false,
-            "title": "Angles / shots required",
-            "options": "Front, Side, Detail, Packaging, Other (text field)"
+            "required": true,
+            "multi_line_field": true,
+            "title": "Angles / shots required (Front, Side, Detail, Packaging, Other (please specify)"
           }
         }
       },
@@ -121,7 +121,7 @@
         "dropdown_menu_ggBQjB",
         "text_field_xJ8BME",
         "dropdown_menu_QieJRt",
-        "dropdown_menu_datbdp"
+        "text_field_Ly64Cg"
       ],
       "custom_css": [],
       "settings": {
