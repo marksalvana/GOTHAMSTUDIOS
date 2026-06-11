@@ -162,21 +162,21 @@
         "image_T7wxCr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IW4041011_D.jpg",
+            "image": "shopify://shop_images/GSM_CONTIGO_NPD24_Gym_Kids_Yoga_Lifestyle_Office_shooting-JULY_AUG_2023_KIDS_STUDIO_PRODUCT_SHOTS_0018.jpg",
             "enable_parallax": false
           }
         },
         "image_F8xxbU": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/GSM_HOGS-DOGS-QUADS_productphotography-0027_retouched.jpg",
+            "image": "shopify://shop_images/Studio_-_Brand_40-edit.png",
             "enable_parallax": false
           }
         },
         "image_WYzrEj": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/UVSANIFYproductphotography-1007200025-0200_RETOUCHED-01.jpg",
+            "image": "shopify://shop_images/INTL_Sponges_Megamax_Antibax_5PK_PRODUCT__0071.jpg",
             "enable_parallax": false
           }
         }
@@ -188,16 +188,16 @@
       ],
       "name": "Media collage",
       "settings": {
-        "layout": "fixed-soft",
-        "height": "large",
+        "layout": "full",
+        "height": "x-large",
         "first_media_position_large": "left",
         "content_position_large": "overlaid",
         "content_position_mobile": "below",
         "overlay": 0,
         "blur": 0,
         "inverse_colors": true,
-        "padding_top": 0,
-        "padding_bottom": 1,
+        "padding_top": 1,
+        "padding_bottom": 0.1,
         "center_text": true,
         "title": "",
         "text": "",
