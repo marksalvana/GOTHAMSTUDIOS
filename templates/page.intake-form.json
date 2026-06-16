@@ -76,6 +76,14 @@
             "options": "eCommerce (clean), Branding, Social Media, Advertising"
           }
         },
+        "text_field_hrm69q": {
+          "type": "text-field",
+          "settings": {
+            "required": true,
+            "multi_line_field": true,
+            "title": "Angles / shots required (Front, Side, Detail, Packaging, Other (please specify)"
+          }
+        },
         "dropdown_menu_ggBQjB": {
           "type": "dropdown-menu",
           "settings": {
@@ -158,6 +166,7 @@
         "text_field_KWanCi",
         "dropdown_menu_yXPj8L",
         "dropdown_menu_6jxRzX",
+        "text_field_hrm69q",
         "dropdown_menu_ggBQjB",
         "text_field_xJ8BME",
         "dropdown_menu_TLAYQX",
