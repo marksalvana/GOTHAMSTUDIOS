@@ -284,7 +284,7 @@
       "type": "featured-products",
       "name": "Featured products",
       "settings": {
-        "layout": "fixed-soft",
+        "layout": "full",
         "products": [
           "studio-product-pack",
           "studio-product-pack-growth",
@@ -296,7 +296,7 @@
         "columns_large": "4",
         "columns_mobile": "1",
         "padding_top": 1,
-        "padding_bottom": 0,
+        "padding_bottom": 1,
         "center_text": true,
         "title": "New simple product packages",
         "heading_size": "h2",
