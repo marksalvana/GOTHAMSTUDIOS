@@ -544,9 +544,60 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/GSM_BROGHAN_S_WAY_DISTILLERY_lifestyle_photography_APRIL_24-240424_0001.jpg",
+            "subheading": "Product Photography",
+            "title": "Pricing Structure",
+            "text": "<ul><li>Per product / per shot basis</li><li>Additional rates apply for models/talent</li><li>Additional rates apply for multiple angles or variations</li><li>Quotes provided per project</li><li>Prepayment preferred (or 7-day payment terms for returning clients)</li></ul>",
+            "text_size": "medium",
+            "text_position_large": "center start",
+            "text_position_mobile": "start",
+            "first_button_label": "VIEW PRODUCT PORTFOLIO",
+            "first_button_link": "shopify://pages/product-photography-portfolio",
+            "first_button_arrow_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_arrow_style": false,
+            "color_scheme": "default-with-accent-1",
+            "custom_colors": false,
+            "color_foreground": "#061c2f",
+            "color_accent": "#0d91bd",
+            "color_background": "#ffffff",
+            "color_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_JaNd4J"
+      ],
+      "settings": {
+        "fixed_width": true,
+        "soft_background": true,
+        "height_large": "medium",
+        "height_mobile": "medium",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "text_below_image_mobile": true,
+        "image_padding": false,
+        "image_offset": false,
+        "enable_parallax": false,
+        "image_background": false,
+        "overlay": 40,
+        "animation": "swipe",
+        "maintain_text_first_slide": true,
+        "maintain_background_color_first_slide": false,
+        "auto_play": false,
+        "auto_play_delay": 5
+      }
+    },
+    "hero_qHAtHe": {
+      "type": "hero",
+      "blocks": {
+        "slide_C6LGML": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/GSM_BROGHAN_S_WAY_DISTILLERY_lifestyle_photography_APRIL_24-240424_0001.jpg",
             "subheading": "Product Packages",
             "title": "IMPORTANT INFORMATION",
-            "text": "<ul><li>All packages are <strong>per product</strong></li><li>All bookings are <strong>prepaid and non-refundable</strong></li><li>Turnaround time: <strong>5–10 business days from receipt of product</strong></li><li>Products must be delivered ready to shoot</li><li>Return shipping must be included with your product</li></ul>",
+            "text": "<h5>Product Photography Services Include</h5><ul><li>Single product on white (no talent / with talent)</li><li>Group product on white</li><li>Product on location (no talent / with talent)</li><li>Group product on location</li></ul><h5>What’s Included</h5><ul><li>Creative direction + art direction</li><li>Studio or location setup</li><li>Colour correction + basic retouching</li><li>Optional: white background clipping, shadow/reflection</li><li>File delivery via Dropbox</li><li>Turnaround time: 7 business days</li></ul><h5>Important Notes</h5><ul><li>Price is per product/per angle</li><li>Two products = two charges (even if in one image)</li><li>Client must arrange delivery and return of physical products</li><li>In-studio attendance optional (subject to prior arrangement)</li></ul><p> <strong>Gotham Studios Melbourne. We are your photographers.</strong><br/></p><p><strong> </strong><a href=\"https://www.gothamstudios.net/pages/contact\"><strong>Click here for a free quote →</strong></a></p>",
             "text_size": "medium",
             "text_position_large": "center start",
             "text_position_mobile": "start",
@@ -566,7 +617,7 @@
         }
       },
       "block_order": [
-        "slide_JaNd4J"
+        "slide_C6LGML"
       ],
       "settings": {
         "fixed_width": true,
@@ -648,6 +699,7 @@
     "hero_MhCwQh",
     "collapsible_content_zcEXAJ",
     "hero_PmTeLL",
+    "hero_qHAtHe",
     "rich_text_j3QN7X"
   ]
 }
