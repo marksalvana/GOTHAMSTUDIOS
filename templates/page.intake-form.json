@@ -147,6 +147,14 @@
             "multi_line_field": false,
             "title": "Courier tracking number (optional)"
           }
+        },
+        "dropdown_menu_rWjRXN": {
+          "type": "dropdown-menu",
+          "settings": {
+            "required": true,
+            "title": "I confirm my product is ready to shoot. I understand turnaround times, I agree to prepaid, non-refundable terms.",
+            "options": "Yes, No"
+          }
         }
       },
       "block_order": [
@@ -166,7 +174,8 @@
         "text_field_Tm9MaN",
         "text_field_GEy4gc",
         "dropdown_menu_QieJRt",
-        "text_field_CmEcEM"
+        "text_field_CmEcEM",
+        "dropdown_menu_rWjRXN"
       ],
       "custom_css": [],
       "settings": {
