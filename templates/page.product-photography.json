@@ -85,7 +85,7 @@
         "image_T7wxCr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/GSM_CONTIGO_WATER_BOTTLES_productphotography_BEAUTY_SHOOT_EASY_CLEAN_0098.jpg",
+            "image": "shopify://shop_images/GSM_BROGHAN_S_WAY_DISTILLERY_lifestyle_photography_MARCH_24-250324_0006.jpg",
             "enable_parallax": false
           }
         },
@@ -168,7 +168,7 @@
       ],
       "settings": {
         "fixed_width": true,
-        "soft_background": true,
+        "soft_background": false,
         "height_large": "medium",
         "height_mobile": "medium",
         "padding_top": 1,
@@ -252,6 +252,7 @@
         "text_column_YGAc49",
         "text_column_3kiYVJ"
       ],
+      "disabled": true,
       "name": "Text columns with images",
       "settings": {
         "layout": "full",
@@ -299,43 +300,6 @@
         "title": "Product Photography Packages",
         "heading_size": "h2",
         "text": "<p>Fast, high-quality product photography, shot in our Melbourne studio.Simple packages. Clear pricing. No back and forth.</p>",
-        "text_style": "large-subtext",
-        "button_large": "bottom",
-        "button_mobile": "top",
-        "button_label": "",
-        "button_link": "",
-        "image_container_ratio": "square",
-        "fit_image_to_container": false,
-        "image_padding": 5,
-        "enable_second_image_on_hover": true,
-        "color_scheme": "default",
-        "custom_colors": false,
-        "color_foreground": "#061c2f",
-        "color_background": "#ffffff",
-        "color_gradient": ""
-      }
-    },
-    "featured_products_hifnip": {
-      "type": "featured-products",
-      "name": "Featured products",
-      "settings": {
-        "layout": "fixed-soft",
-        "products": [
-          "add-on-additional-image",
-          "add-on-additional-product",
-          "add-on-advanced-retouching",
-          "add-on-express-turnaround"
-        ],
-        "slider_large": false,
-        "slider_mobile": true,
-        "columns_large": "4",
-        "columns_mobile": "1",
-        "padding_top": 1,
-        "padding_bottom": 1,
-        "center_text": true,
-        "title": "+Add Ons",
-        "heading_size": "h2",
-        "text": "<p>Add additional products, images or service to your product photography package.</p>",
         "text_style": "large-subtext",
         "button_large": "bottom",
         "button_mobile": "top",
@@ -404,138 +368,16 @@
         "auto_play_delay": 5
       }
     },
-    "collapsible_content_zcEXAJ": {
-      "type": "collapsible-content",
-      "blocks": {
-        "row_ecJwpT": {
-          "type": "row",
-          "settings": {
-            "title": "Can I send multiple products?",
-            "text": "<p>Yes. Each additional product is charged separately.</p>",
-            "page": ""
-          }
-        },
-        "row_j49hLR": {
-          "type": "row",
-          "settings": {
-            "title": "Can I art direct the shoot?",
-            "text": "<p>Yes. Your brief form allows you to guide the shoot, including references and preferences.</p>",
-            "page": ""
-          }
-        },
-        "row_EcCRWA": {
-          "type": "row",
-          "settings": {
-            "title": "What backgrounds are included?",
-            "text": "<p>Clean white or simple studio backgrounds. Custom setups may incur additional costs.</p>",
-            "page": ""
-          }
-        },
-        "row_cG4weY": {
-          "type": "row",
-          "settings": {
-            "title": "What if I need revisions?",
-            "text": "<p>One round of minor adjustments is included. Additional edits are charged.</p>",
-            "page": ""
-          }
-        },
-        "row_ziKJz7": {
-          "type": "row",
-          "settings": {
-            "title": "Do you return products?",
-            "text": "<p>Yes, using your provided return satchel.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "row_ecJwpT",
-        "row_j49hLR",
-        "row_EcCRWA",
-        "row_cG4weY",
-        "row_ziKJz7"
-      ],
-      "name": "Collapsible content",
-      "settings": {
-        "layout": "full",
-        "row_style": "collapsed",
-        "padding_top": 1,
-        "padding_bottom": 1,
-        "center_heading_text": true,
-        "title": "FAQ",
-        "heading_size": "h2",
-        "text": "",
-        "text_style": "large-subtext",
-        "center_body_text": false,
-        "color_scheme": "default-with-accent-1",
-        "custom_colors": false,
-        "color_foreground": "#061c2f",
-        "color_accent": "#0d91bd",
-        "color_background": "#ffffff",
-        "color_gradient": ""
-      }
-    },
-    "hero_PmTeLL": {
-      "type": "hero",
-      "blocks": {
-        "slide_JaNd4J": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/GSM_BROGHAN_S_WAY_DISTILLERY_lifestyle_photography_APRIL_24-240424_0001.jpg",
-            "subheading": "Product Photography",
-            "title": "Pricing Structure",
-            "text": "<ul><li>Per product / per shot basis</li><li>Additional rates apply for models/talent</li><li>Additional rates apply for multiple angles or variations</li><li>Quotes provided per project</li><li>Prepayment preferred (or 7-day payment terms for returning clients)</li></ul>",
-            "text_size": "medium",
-            "text_position_large": "center start",
-            "text_position_mobile": "start",
-            "first_button_label": "VIEW PRODUCT PORTFOLIO",
-            "first_button_link": "shopify://pages/product-photography-portfolio",
-            "first_button_arrow_style": false,
-            "second_button_label": "",
-            "second_button_link": "",
-            "second_button_arrow_style": false,
-            "color_scheme": "default-with-accent-1",
-            "custom_colors": false,
-            "color_foreground": "#061c2f",
-            "color_accent": "#0d91bd",
-            "color_background": "#ffffff",
-            "color_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "slide_JaNd4J"
-      ],
-      "settings": {
-        "fixed_width": true,
-        "soft_background": true,
-        "height_large": "medium",
-        "height_mobile": "medium",
-        "padding_top": 1,
-        "padding_bottom": 1,
-        "text_below_image_mobile": true,
-        "image_padding": false,
-        "image_offset": false,
-        "enable_parallax": false,
-        "image_background": false,
-        "overlay": 40,
-        "animation": "swipe",
-        "maintain_text_first_slide": true,
-        "maintain_background_color_first_slide": false,
-        "auto_play": false,
-        "auto_play_delay": 5
-      }
-    },
     "hero_qHAtHe": {
       "type": "hero",
       "blocks": {
         "slide_C6LGML": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/GSM_BROGHAN_S_WAY_DISTILLERY_lifestyle_photography_APRIL_24-240424_0001.jpg",
+            "image": "shopify://shop_images/GSM_HOGS-DOGS-QUADS_productphotography-0027_retouched.jpg",
             "subheading": "Product Packages",
             "title": "IMPORTANT INFORMATION",
-            "text": "<p>Price is per product/per angle</p><ul><li>Two products = two charges (even if in one image)</li><li>Client must arrange delivery and return of physical products</li><li>In-studio attendance optional (subject to prior arrangement)</li></ul><p> <strong>Gotham Studios Melbourne. We are your photographers.</strong><br/></p><p><strong> </strong><a href=\"https://www.gothamstudios.net/pages/contact\"><strong>Click here for a free quote →</strong></a></p>",
+            "text": "<ul><li>Price is per product/per angle</li><li>Two products = two charges (even if in one image)</li><li>Client must arrange delivery and return of physical products</li><li>In-studio attendance optional (subject to prior arrangement)</li><li>Additional rates apply for models/talent</li><li>Additional rates apply for multiple angles or variations</li><li>Quotes provided per project</li><li>Prepayment preferred (or 7-day payment terms for returning clients)</li></ul>",
             "text_size": "medium",
             "text_position_large": "center start",
             "text_position_mobile": "start",
@@ -632,10 +474,7 @@
     "hero_pwhQRn",
     "text_columns_NKepnd",
     "featured_products_UVgh6r",
-    "featured_products_hifnip",
     "hero_MhCwQh",
-    "collapsible_content_zcEXAJ",
-    "hero_PmTeLL",
     "hero_qHAtHe",
     "rich_text_j3QN7X"
   ]
