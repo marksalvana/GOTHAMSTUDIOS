@@ -9,8 +9,62 @@
  */
 {
   "sections": {
+    "rich_text_eyK3A8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8jpKjn": {
+          "type": "heading",
+          "settings": {
+            "title": "Services",
+            "size": "h1"
+          }
+        },
+        "text_6DMA9J": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You need professional-grade images on time, on budget, and on point before your next campaign drops. But in reality? Endless back-and-forth, creeping invoices, and production delays slow everything down.</p><p><strong>That’s why we created prepaid photography packages. </strong>Because marketing managers, brand teams, and business owners kept telling us the same thing: “We just want to know what we’re getting—and when.”</p><p>At Gotham Studios Melbourne, we’ve reimagined the process: <br/>No vague quotes. No surprise charges. No waiting on approvals.</p><p>Everything is locked in upfront. Simple, seamless, and stress-free, just how it should be.</p><p>Book your <a href=\"https://www.gothamstudios.net/pages/contact\">free consult today</a> and we’ll show you how simple and predictable great photography can be.</p>",
+            "style": "text"
+          }
+        },
+        "buttons_ADJtTq": {
+          "type": "buttons",
+          "settings": {
+            "first_button_label": "",
+            "first_button_link": "",
+            "first_button_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_style": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_8jpKjn",
+        "text_6DMA9J",
+        "buttons_ADJtTq"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": false,
+        "text_position": "center center",
+        "overlay": 30,
+        "image_height_large": "medium",
+        "image_height_mobile": "medium",
+        "enable_parallax": false,
+        "padding_top": 1,
+        "padding_bottom": 0,
+        "soft_background": true,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061C2F",
+        "color_accent": "#0D91BD",
+        "color_background": "#FFFFFF",
+        "color_gradient": ""
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "layout": "fixed-soft",
         "width": "medium",
@@ -316,6 +370,7 @@
     }
   },
   "order": [
+    "rich_text_eyK3A8",
     "main",
     "media_with_text_rmJx9J",
     "rich_text_zYMUaz",
