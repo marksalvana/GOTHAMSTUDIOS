@@ -51,7 +51,7 @@
         "image_height_large": "medium",
         "image_height_mobile": "medium",
         "enable_parallax": false,
-        "padding_top": 1,
+        "padding_top": 0.5,
         "padding_bottom": 0.5,
         "soft_background": true,
         "color_scheme": "default-with-accent-1",
