@@ -92,7 +92,7 @@
             "title": "Preferred style (other)"
           }
         },
-        "dropdown_menu_QieJRt": {
+        "dropdown_menu_TLAYQX": {
           "type": "dropdown-menu",
           "settings": {
             "required": true,
@@ -107,6 +107,46 @@
             "multi_line_field": true,
             "title": "Angles / shots required (Front, Side, Detail, Packaging, Other (please specify)"
           }
+        },
+        "text_field_WQgCrU": {
+          "type": "text-field",
+          "settings": {
+            "required": false,
+            "multi_line_field": true,
+            "title": "List URL links to your brand website, brand guidelines or social media handles"
+          }
+        },
+        "text_field_Tm9MaN": {
+          "type": "text-field",
+          "settings": {
+            "required": false,
+            "multi_line_field": true,
+            "title": "Photography references: List URL links to any reference images you like"
+          }
+        },
+        "text_field_GEy4gc": {
+          "type": "text-field",
+          "settings": {
+            "required": true,
+            "multi_line_field": true,
+            "title": "Key selling features to highlight, anything to avoid?"
+          }
+        },
+        "dropdown_menu_QieJRt": {
+          "type": "dropdown-menu",
+          "settings": {
+            "required": true,
+            "title": "Will you include return satchel?",
+            "options": "Yes, No"
+          }
+        },
+        "text_field_CmEcEM": {
+          "type": "text-field",
+          "settings": {
+            "required": false,
+            "multi_line_field": false,
+            "title": "Courier tracking number (optional)"
+          }
         }
       },
       "block_order": [
@@ -120,8 +160,13 @@
         "dropdown_menu_6jxRzX",
         "dropdown_menu_ggBQjB",
         "text_field_xJ8BME",
+        "dropdown_menu_TLAYQX",
+        "text_field_Ly64Cg",
+        "text_field_WQgCrU",
+        "text_field_Tm9MaN",
+        "text_field_GEy4gc",
         "dropdown_menu_QieJRt",
-        "text_field_Ly64Cg"
+        "text_field_CmEcEM"
       ],
       "custom_css": [],
       "settings": {
