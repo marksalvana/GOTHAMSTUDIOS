@@ -1,1 +1,270 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"layout":"fixed-soft","width":"small","padding_top":1,"padding_bottom":1,"show_heading":true,"color_scheme":"default-with-accent-1","custom_colors":false,"color_foreground":"#061c2f","color_accent":"#f77d0b","color_background":"#ffffff","color_gradient":""}},"rich_text_3ngQBt":{"type":"rich-text","blocks":{"heading_P7tUhb":{"type":"heading","settings":{"title":"Profile Headshot Photography Melbourne","size":"h1"}},"text_RLY4h9":{"type":"text","settings":{"text":"<p>In today's competitive digital world, your profile headshot is your digital handshake your chance to make an unforgettable first impression. Whether you're networking on LinkedIn, connecting on Facebook, or engaging on any other platform, a professional headshot speaks volumes about your credibility, approachability, and professionalism in an instant.<\/p><p>At Gotham Studios Melbourne, we specialise in professional profile photography. Let us help you elevate your online presence and make a lasting impression with a headshot that speaks volumes. <\/p><p><strong>Book your session with us today and take the first step towards new opportunities online.<\/strong><\/p>","style":"text"}}},"block_order":["heading_P7tUhb","text_RLY4h9"],"settings":{"full_width":true,"text_position":"center center","overlay":0,"image_height_large":"medium","image_height_mobile":"medium","enable_parallax":false,"padding_top":0.5,"padding_bottom":0.5,"soft_background":true,"color_scheme":"default-with-accent-1","custom_colors":false,"color_foreground":"#061c2f","color_accent":"#f77d0b","color_background":"#ffffff","color_gradient":""}},"media_with_text_PpLCCp":{"type":"media-with-text","blocks":{"block_PFzeWA":{"type":"block","settings":{"large_layout":"text-first","mobile_layout":"text-first","image":"shopify:\/\/shop_images\/GORDONLEGALstaff_profile_and_group_photography_0083_6ffcb5f7-7162-4df8-a98b-a28220d57742.jpg","image_padding":false,"video":"","video_style":"image-play","enable_parallax":false,"tab_label":"","subheading":"HEADSHOTS","title":"We pioneered Melbourne’s first prepaid headshot packages","text":"<p>And we’ve set the standard ever since. We’re still the go-to for professionals who want fast, high-quality portraits with fixed pricing and zero fuss. Our prepaid model gives you control so you can plan better, move faster, and show up looking like your best self.<\/p>","text_size":"medium","first_button_label":"BOOK YOUR HEADSHOT SESSION","first_button_link":"shopify:\/\/collections\/frontpage","first_button_outline_style":false,"second_button_label":"","second_button_link":"","second_button_outline_style":true}}},"block_order":["block_PFzeWA"],"name":"Media with text","settings":{"layout":"fixed-soft","height":"medium","stack_blocks":true,"center_tabs":true,"padding_top":1,"padding_bottom":1,"color_scheme":"default-with-accent-1","custom_colors":false,"color_foreground":"#061c2f","color_accent":"#0d91bd","color_background":"#ffffff","color_gradient":""}},"featured_products_LcXYUm":{"type":"featured-products","settings":{"layout":"fixed-soft","products":["99-headshot-packages-one-new-look","220-headshot-plus-packages-five-looks","220-linkedin-headshot-plus-package","99-linkedin-profile-photography"],"slider_large":true,"slider_mobile":true,"columns_large":"3","columns_mobile":"1","padding_top":0,"padding_bottom":0.5,"center_text":true,"title":"Buy Headshot Profile Packages","heading_size":"h2","text":"","text_style":"large-subtext","button_large":"bottom","button_mobile":"top","button_label":"","button_link":"","image_container_ratio":"square","fit_image_to_container":false,"image_padding":5,"enable_second_image_on_hover":false,"color_scheme":"default","custom_colors":false,"color_foreground":"#061c2f","color_background":"#ffffff","color_gradient":""}},"featured_products_qx8wzz":{"type":"featured-products","disabled":true,"settings":{"layout":"fixed-soft","products":["220-linkedin-headshot-plus-package","220-00-corporate-headshots-plus-package-five-images-of-your-choice","220-00-brand-portraits-plus-package-five-images-of-your-choice"],"slider_large":true,"slider_mobile":true,"columns_large":"3","columns_mobile":"1","padding_top":0,"padding_bottom":0.5,"center_text":true,"title":"BUY $220.00 Headshot Profile Packages","heading_size":"h2","text":"","text_style":"large-subtext","button_large":"bottom","button_mobile":"top","button_label":"","button_link":"","image_container_ratio":"square","fit_image_to_container":false,"image_padding":5,"enable_second_image_on_hover":false,"color_scheme":"default","custom_colors":false,"color_foreground":"#061c2f","color_background":"#ffffff","color_gradient":""}},"collapsible_content_AM3bwG":{"type":"collapsible-content","blocks":{"row_Tk9TDc":{"type":"row","settings":{"title":"Look Your Best ","text":"<p>Professional-quality lighting, camera equipment and studio backdrops will result in a far superior image to any cell phone snap.   We pay attention to all the little details, carefully pose you and finesse your expression to create a great image that reflects your personality and brand.<\/p>","page":""}},"row_H8cx6b":{"type":"row","settings":{"title":"Credibility","text":"<p>A high-quality photo demonstrates you’re serious, willing to invest in yourself and you don’t cut corners.   It’s a representation of you and your business and should reflect your industry standard – if you’re in a professional role, you need to show you are professional in all aspects.<\/p>","page":""}},"row_jytnJr":{"type":"row","settings":{"title":"Cohesive branding","text":"<p>Whether you’re an individual or business, it’s important to achieve consistency across your social media platforms and your email signature – use the same, professional image for everything.  Keep your look fresh with our <strong>Headshot+<\/strong> package giving you <strong>five (5) cohesive shots<\/strong> that are all <em>on brand<\/em> and interchangeable.<\/p>","page":""}},"row_R3hpUq":{"type":"row","settings":{"title":"Image Quality","text":"<p>Your high-resolution image will be professionally re-touched just a little bit and correctly formatted for its intended use.  <\/p>","page":""}}},"block_order":["row_Tk9TDc","row_H8cx6b","row_jytnJr","row_R3hpUq"],"settings":{"layout":"fixed-soft","row_style":"collapsed","padding_top":0,"padding_bottom":0.5,"center_heading_text":true,"title":"WHY GO PROFESSIONAL?","heading_size":"h2","text":"","text_style":"small-subtext","center_body_text":false,"color_scheme":"default","custom_colors":true,"color_foreground":"#061c2f","color_accent":"#f77d0b","color_background":"#ffffff","color_gradient":""}}},"order":["main","rich_text_3ngQBt","media_with_text_PpLCCp","featured_products_LcXYUm","featured_products_qx8wzz","collapsible_content_AM3bwG"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich_text_JBxdnT": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8AcxrN": {
+          "type": "heading",
+          "settings": {
+            "title": "Profile Headshot Photography Melbourne",
+            "size": "h1"
+          }
+        },
+        "text_NHxTPG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In today's competitive digital world, your profile headshot is your digital handshake your chance to make an unforgettable first impression. Whether you're networking on LinkedIn, connecting on Facebook, or engaging on any other platform, a professional headshot speaks volumes about your credibility, approachability, and professionalism in an instant.</p><p>At Gotham Studios Melbourne, we specialise in professional profile photography. Let us help you elevate your online presence and make a lasting impression with a headshot that speaks volumes.</p><p><strong>Book your session with us today and take the first step towards new opportunities online.</strong></p>",
+            "style": "text"
+          }
+        },
+        "buttons_RnK67U": {
+          "type": "buttons",
+          "settings": {
+            "first_button_label": "",
+            "first_button_link": "",
+            "first_button_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_style": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_8AcxrN",
+        "text_NHxTPG",
+        "buttons_RnK67U"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": false,
+        "text_position": "center center",
+        "overlay": 30,
+        "image_height_large": "medium",
+        "image_height_mobile": "medium",
+        "enable_parallax": false,
+        "padding_top": 0.5,
+        "padding_bottom": 0,
+        "soft_background": true,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#F77D0B",
+        "color_accent": "#0D91BD",
+        "color_background": "#FFFFFF",
+        "color_gradient": ""
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "layout": "fixed-soft",
+        "width": "small",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "show_heading": true,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#f77d0b",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "media_with_text_PpLCCp": {
+      "type": "media-with-text",
+      "blocks": {
+        "block_PFzeWA": {
+          "type": "block",
+          "settings": {
+            "large_layout": "text-first",
+            "mobile_layout": "text-first",
+            "image": "shopify://shop_images/GORDONLEGALstaff_profile_and_group_photography_0083_6ffcb5f7-7162-4df8-a98b-a28220d57742.jpg",
+            "image_padding": false,
+            "video": "",
+            "video_style": "image-play",
+            "enable_parallax": false,
+            "tab_label": "",
+            "subheading": "HEADSHOTS",
+            "title": "We pioneered Melbourne’s first prepaid headshot packages",
+            "text": "<p>And we’ve set the standard ever since. We’re still the go-to for professionals who want fast, high-quality portraits with fixed pricing and zero fuss. Our prepaid model gives you control so you can plan better, move faster, and show up looking like your best self.</p>",
+            "text_size": "medium",
+            "first_button_label": "BOOK YOUR HEADSHOT SESSION",
+            "first_button_link": "shopify://collections/frontpage",
+            "first_button_outline_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_outline_style": true
+          }
+        }
+      },
+      "block_order": [
+        "block_PFzeWA"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "layout": "fixed-soft",
+        "height": "medium",
+        "stack_blocks": true,
+        "center_tabs": true,
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "featured_products_LcXYUm": {
+      "type": "featured-products",
+      "settings": {
+        "layout": "fixed-soft",
+        "products": [
+          "99-headshot-packages-one-new-look",
+          "220-headshot-plus-packages-five-looks",
+          "220-linkedin-headshot-plus-package",
+          "99-linkedin-profile-photography"
+        ],
+        "slider_large": true,
+        "slider_mobile": true,
+        "columns_large": "3",
+        "columns_mobile": "1",
+        "padding_top": 0,
+        "padding_bottom": 0.5,
+        "center_text": true,
+        "title": "Buy Headshot Profile Packages",
+        "heading_size": "h2",
+        "text": "",
+        "text_style": "large-subtext",
+        "button_large": "bottom",
+        "button_mobile": "top",
+        "button_label": "",
+        "button_link": "",
+        "image_container_ratio": "square",
+        "fit_image_to_container": false,
+        "image_padding": 5,
+        "enable_second_image_on_hover": false,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "featured_products_qx8wzz": {
+      "type": "featured-products",
+      "disabled": true,
+      "settings": {
+        "layout": "fixed-soft",
+        "products": [
+          "220-linkedin-headshot-plus-package",
+          "220-00-corporate-headshots-plus-package-five-images-of-your-choice",
+          "220-00-brand-portraits-plus-package-five-images-of-your-choice"
+        ],
+        "slider_large": true,
+        "slider_mobile": true,
+        "columns_large": "3",
+        "columns_mobile": "1",
+        "padding_top": 0,
+        "padding_bottom": 0.5,
+        "center_text": true,
+        "title": "BUY $220.00 Headshot Profile Packages",
+        "heading_size": "h2",
+        "text": "",
+        "text_style": "large-subtext",
+        "button_large": "bottom",
+        "button_mobile": "top",
+        "button_label": "",
+        "button_link": "",
+        "image_container_ratio": "square",
+        "fit_image_to_container": false,
+        "image_padding": 5,
+        "enable_second_image_on_hover": false,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "collapsible_content_AM3bwG": {
+      "type": "collapsible-content",
+      "blocks": {
+        "row_Tk9TDc": {
+          "type": "row",
+          "settings": {
+            "title": "Look Your Best ",
+            "text": "<p>Professional-quality lighting, camera equipment and studio backdrops will result in a far superior image to any cell phone snap.   We pay attention to all the little details, carefully pose you and finesse your expression to create a great image that reflects your personality and brand.</p>",
+            "page": ""
+          }
+        },
+        "row_H8cx6b": {
+          "type": "row",
+          "settings": {
+            "title": "Credibility",
+            "text": "<p>A high-quality photo demonstrates you’re serious, willing to invest in yourself and you don’t cut corners.   It’s a representation of you and your business and should reflect your industry standard – if you’re in a professional role, you need to show you are professional in all aspects.</p>",
+            "page": ""
+          }
+        },
+        "row_jytnJr": {
+          "type": "row",
+          "settings": {
+            "title": "Cohesive branding",
+            "text": "<p>Whether you’re an individual or business, it’s important to achieve consistency across your social media platforms and your email signature – use the same, professional image for everything.  Keep your look fresh with our <strong>Headshot+</strong> package giving you <strong>five (5) cohesive shots</strong> that are all <em>on brand</em> and interchangeable.</p>",
+            "page": ""
+          }
+        },
+        "row_R3hpUq": {
+          "type": "row",
+          "settings": {
+            "title": "Image Quality",
+            "text": "<p>Your high-resolution image will be professionally re-touched just a little bit and correctly formatted for its intended use.  </p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_Tk9TDc",
+        "row_H8cx6b",
+        "row_jytnJr",
+        "row_R3hpUq"
+      ],
+      "settings": {
+        "layout": "fixed-soft",
+        "row_style": "collapsed",
+        "padding_top": 0,
+        "padding_bottom": 0.5,
+        "center_heading_text": true,
+        "title": "WHY GO PROFESSIONAL?",
+        "heading_size": "h2",
+        "text": "",
+        "text_style": "small-subtext",
+        "center_body_text": false,
+        "color_scheme": "default",
+        "custom_colors": true,
+        "color_foreground": "#061c2f",
+        "color_accent": "#f77d0b",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "rich_text_JBxdnT",
+    "main",
+    "media_with_text_PpLCCp",
+    "featured_products_LcXYUm",
+    "featured_products_qx8wzz",
+    "collapsible_content_AM3bwG"
+  ]
+}
