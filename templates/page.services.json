@@ -1,1 +1,324 @@
-{"sections":{"main":{"type":"main-page","settings":{"layout":"fixed-soft","width":"medium","padding_top":0.5,"padding_bottom":0,"show_heading":true,"color_scheme":"default-with-accent-1","custom_colors":false,"color_foreground":"#061c2f","color_accent":"#f77d0b","color_background":"#ffffff","color_gradient":""}},"media_with_text_rmJx9J":{"type":"media-with-text","blocks":{"block_6ezD3h":{"type":"block","settings":{"large_layout":"text-first","mobile_layout":"text-first","image":"shopify:\/\/shop_images\/GORDONLEGALstaff_profile_and_group_photography_0070.jpg","image_padding":false,"video":"","video_style":"image-play","enable_parallax":false,"tab_label":"","subheading":"HEADSHOTS","title":"We pioneered Melbourne’s first prepaid headshot packages.","text":"<p>And we’ve set the standard ever since. We’re still the go-to for professionals who want fast, high-quality portraits with fixed pricing and zero fuss. Our prepaid model gives you control so you can plan better, move faster, and show up looking like your best self.<\/p>","text_size":"medium","first_button_label":"VIEW HEADSHOT PACKAGES","first_button_link":"shopify:\/\/collections\/frontpage","first_button_outline_style":false,"second_button_label":"READ MORE","second_button_link":"shopify:\/\/pages\/linkedin-profile-photography","second_button_outline_style":true}},"block_mVhFeY":{"type":"block","settings":{"large_layout":"image-first","mobile_layout":"text-first","image":"shopify:\/\/shop_images\/VCF114_Breville_Mostra_Easy_Measure_Coffee_Filter_Grey_Chrome_Lifestyle_Front_Full_Carafe_retouched_01_PINK_Snapseal.jpg","image_padding":false,"video":"","video_style":"image-play","enable_parallax":false,"tab_label":"","subheading":"e-commerce and campaign","title":"Going global? We’ve got you covered.","text":"<p>We offer something most studios can’t: full-service international e-commerce and campaign shoots managed from our Melbourne studio. Products arrive at our studio, and we take care of everything—from casting to final edits. <\/p><p>It’s our proprietary process. And it’s how global brands get world-class visuals crafted with care without ever boarding a plane.<\/p>","text_size":"medium","first_button_label":"BOOK A FREE CONSULT","first_button_link":"shopify:\/\/pages\/contact","first_button_outline_style":false,"second_button_label":"","second_button_link":"","second_button_outline_style":true}}},"block_order":["block_6ezD3h","block_mVhFeY"],"name":"Media with text","settings":{"layout":"fixed-soft","height":"medium","stack_blocks":true,"center_tabs":true,"padding_top":1,"padding_bottom":0,"color_scheme":"default-with-accent-1","custom_colors":false,"color_foreground":"#061c2f","color_accent":"#0d91bd","color_background":"#ffffff","color_gradient":""}},"rich_text_zYMUaz":{"type":"rich-text","blocks":{"heading_6jnA9B":{"type":"heading","settings":{"title":"PRODUCT, LIFESTYLE, ADVERTISING & COMMERCIAL PHOTOGRAPHY","size":"h2"}},"text_g4rz9V":{"type":"text","settings":{"text":"<p>Whether you're launching a product, updating your website, or capturing a full brand campaign, Gotham Studios Melbourne delivers photography that works hard for your business.<\/p><p>We specialise in four key categories of brand-building content:<\/p>","style":"text"}},"buttons_X43Wyf":{"type":"buttons","settings":{"first_button_label":"","first_button_link":"","first_button_style":false,"second_button_label":"","second_button_link":"","second_button_style":true}}},"block_order":["heading_6jnA9B","text_g4rz9V","buttons_X43Wyf"],"name":"Rich text","settings":{"full_width":false,"text_position":"center center","overlay":30,"image_height_large":"medium","image_height_mobile":"medium","enable_parallax":false,"padding_top":1,"padding_bottom":1,"soft_background":true,"color_scheme":"default-with-accent-1","custom_colors":false,"color_foreground":"#061c2f","color_accent":"#0d91bd","color_background":"#ffffff","color_gradient":""}},"media_with_text_QFDb4T":{"type":"media-with-text","blocks":{"block_FT7MUe":{"type":"block","settings":{"large_layout":"text-first","mobile_layout":"text-first","image":"shopify:\/\/shop_images\/GSM_CONTIGO_NPD24_Gym_Kids_Yoga_Lifestyle_Office_shooting-JULY_AUG_2023_KIDS_STUDIO_PRODUCT_SHOTS_0018.jpg","image_padding":false,"video":"","video_style":"image-play","enable_parallax":false,"tab_label":"","subheading":"Service","title":"Product Photography","text":"<p>Clean, conversion-ready images that showcase your product’s features, quality, and design. Ideal for e-commerce, packaging, and marketing materials<\/p>","text_size":"medium","first_button_label":"LEARN MORE","first_button_link":"shopify:\/\/pages\/product-photography","first_button_outline_style":false,"second_button_label":"VIEW PORTFOLIO","second_button_link":"shopify:\/\/pages\/product-photography-portfolio","second_button_outline_style":true}},"block_PELt3q":{"type":"block","settings":{"large_layout":"image-first","mobile_layout":"text-first","image":"shopify:\/\/shop_images\/GSM_CONTIGO_WINTER_21-22_photography_6920.jpg","image_padding":false,"video":"","video_style":"image-play","enable_parallax":false,"tab_label":"","subheading":"SERVICE","title":"Lifestyle Photography","text":"<p>Real-world scenes that show your product in use—human, relatable, and on-brand. Perfect for social media, digital ads, and website hero images.<\/p>","text_size":"medium","first_button_label":"BOOK A FREE CONSULT","first_button_link":"shopify:\/\/pages\/contact","first_button_outline_style":false,"second_button_label":"VIEW PORTFOLIO","second_button_link":"shopify:\/\/pages\/lifestyle-photography-portfolio","second_button_outline_style":true}},"block_PHdfj7":{"type":"block","settings":{"large_layout":"text-first","mobile_layout":"text-first","image":"shopify:\/\/shop_images\/GSM_BROGHAN_S_WAY_DISTILLERY_lifestyle_photography_MARCH_24-250324_0030.jpg","image_padding":false,"video":"","video_style":"image-play","enable_parallax":false,"tab_label":"","subheading":"SERVICE","title":"Advertising Campaigns","text":"<p>High-impact, creative direction-led shoots for promotions, launches, and brand storytelling. Whether in-studio or on-location, we build scenes that sell your vision.<\/p>","text_size":"medium","first_button_label":"BOOK A FREE CONSULT","first_button_link":"shopify:\/\/pages\/contact","first_button_outline_style":false,"second_button_label":"VIEW PORTFOLIO","second_button_link":"shopify:\/\/pages\/portfolio","second_button_outline_style":true}},"block_EecXcP":{"type":"block","settings":{"large_layout":"image-first","mobile_layout":"text-first","image":"shopify:\/\/shop_images\/SMGBMWDEALERSHIP-BRIGHTON-AFTER.jpg","image_padding":false,"video":"","video_style":"image-play","enable_parallax":false,"tab_label":"","subheading":"SERVICE","title":"Corporate & Commercial Photography","text":"<p>From executive portraits to large-scale dealership and architectural shoots, we capture the essence of your business with clarity and professionalism.<\/p>","text_size":"medium","first_button_label":"BOOK A FREE CONSULT","first_button_link":"shopify:\/\/pages\/contact","first_button_outline_style":false,"second_button_label":"VIEW PORTFOLIO","second_button_link":"shopify:\/\/pages\/portfolio","second_button_outline_style":true}},"block_PcaRHh":{"type":"block","settings":{"large_layout":"text-first","mobile_layout":"text-first","image":"shopify:\/\/shop_images\/WhitsundaysSheer_Silvergum_retouched_01_700ecfcb-99a4-4d76-81b8-9e4fa6eeccb0.jpg","image_padding":false,"video":"","video_style":"image-play","enable_parallax":false,"tab_label":"","subheading":"SERVICE","title":"Retouching Services","text":"<p>Great images deserve a flawless finish. Gotham Studios Melbourne offers professional photo retouching services to refine, enhance, and perfect your visuals. From subtle corrections to advanced editing, we ensure every image aligns with your brand’s style and quality.<\/p>","text_size":"medium","first_button_label":"LEARN MORE","first_button_link":"shopify:\/\/pages\/retouching-services","first_button_outline_style":false,"second_button_label":"VIEW PORTFOLIO","second_button_link":"shopify:\/\/pages\/retouching-portfolio","second_button_outline_style":true}}},"block_order":["block_FT7MUe","block_PELt3q","block_PHdfj7","block_EecXcP","block_PcaRHh"],"name":"Media with text","settings":{"layout":"fixed-soft","height":"medium","stack_blocks":true,"center_tabs":true,"padding_top":0,"padding_bottom":1,"color_scheme":"default-with-accent-1","custom_colors":false,"color_foreground":"#061c2f","color_accent":"#0d91bd","color_background":"#ffffff","color_gradient":""}}},"order":["main","media_with_text_rmJx9J","rich_text_zYMUaz","media_with_text_QFDb4T"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "layout": "fixed-soft",
+        "width": "medium",
+        "padding_top": 0.5,
+        "padding_bottom": 0,
+        "show_heading": true,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#f77d0b",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "media_with_text_rmJx9J": {
+      "type": "media-with-text",
+      "blocks": {
+        "block_6ezD3h": {
+          "type": "block",
+          "settings": {
+            "large_layout": "text-first",
+            "mobile_layout": "image-first",
+            "image": "shopify://shop_images/GORDONLEGALstaff_profile_and_group_photography_0070.jpg",
+            "image_padding": false,
+            "video": "",
+            "video_style": "image-play",
+            "enable_parallax": false,
+            "tab_label": "",
+            "subheading": "HEADSHOTS",
+            "title": "We pioneered Melbourne’s first prepaid headshot packages.",
+            "text": "<p>And we’ve set the standard ever since. We’re still the go-to for professionals who want fast, high-quality portraits with fixed pricing and zero fuss. Our prepaid model gives you control so you can plan better, move faster, and show up looking like your best self.</p>",
+            "text_size": "medium",
+            "first_button_label": "VIEW HEADSHOT PACKAGES",
+            "first_button_link": "shopify://collections/frontpage",
+            "first_button_outline_style": false,
+            "second_button_label": "READ MORE",
+            "second_button_link": "shopify://pages/linkedin-profile-photography",
+            "second_button_outline_style": true
+          }
+        },
+        "block_ntX8Kd": {
+          "type": "block",
+          "settings": {
+            "large_layout": "image-first",
+            "mobile_layout": "image-first",
+            "image": "shopify://shop_images/INTL_Sponges_Megamax_Antibax_5PK_PRODUCT__0071.jpg",
+            "image_padding": false,
+            "video": "",
+            "video_style": "image-play",
+            "enable_parallax": false,
+            "tab_label": "",
+            "subheading": "PRODUCT PHOTOGRAPHY",
+            "title": "Send us your product. We create content that sells.",
+            "text": "<p>Fast, high-quality product photography, shot in our Melbourne studio.</p><p>Simple packages. Clear pricing. No back and forth.</p>",
+            "text_size": "medium",
+            "first_button_label": "VIEW PRODUCT PACKAGES",
+            "first_button_link": "shopify://pages/product-photography-packages",
+            "first_button_outline_style": false,
+            "second_button_label": "VIEW PRODUCT PORTFOLIO",
+            "second_button_link": "shopify://pages/product-photography-portfolio",
+            "second_button_outline_style": true
+          }
+        },
+        "block_mVhFeY": {
+          "type": "block",
+          "settings": {
+            "large_layout": "text-first",
+            "mobile_layout": "image-first",
+            "image": "shopify://shop_images/VCF114_Breville_Mostra_Easy_Measure_Coffee_Filter_Grey_Chrome_Lifestyle_Front_Full_Carafe_retouched_01_PINK_Snapseal.jpg",
+            "image_padding": false,
+            "video": "",
+            "video_style": "image-play",
+            "enable_parallax": false,
+            "tab_label": "",
+            "subheading": "e-commerce and campaign",
+            "title": "Going global? We’ve got you covered.",
+            "text": "<p>We offer something most studios can’t: full-service international e-commerce and campaign shoots managed from our Melbourne studio. Products arrive at our studio, and we take care of everything—from casting to final edits. </p><p>It’s our proprietary process. And it’s how global brands get world-class visuals crafted with care without ever boarding a plane.</p>",
+            "text_size": "medium",
+            "first_button_label": "BOOK A FREE CONSULT",
+            "first_button_link": "shopify://pages/contact",
+            "first_button_outline_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_outline_style": true
+          }
+        }
+      },
+      "block_order": [
+        "block_6ezD3h",
+        "block_ntX8Kd",
+        "block_mVhFeY"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "layout": "fixed-soft",
+        "height": "medium",
+        "stack_blocks": true,
+        "center_tabs": true,
+        "padding_top": 1,
+        "padding_bottom": 0,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "rich_text_zYMUaz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6jnA9B": {
+          "type": "heading",
+          "settings": {
+            "title": "PRODUCT, LIFESTYLE, ADVERTISING & COMMERCIAL PHOTOGRAPHY",
+            "size": "h2"
+          }
+        },
+        "text_g4rz9V": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Whether you're launching a product, updating your website, or capturing a full brand campaign, Gotham Studios Melbourne delivers photography that works hard for your business.</p><p>We specialise in four key categories of brand-building content:</p>",
+            "style": "text"
+          }
+        },
+        "buttons_X43Wyf": {
+          "type": "buttons",
+          "settings": {
+            "first_button_label": "",
+            "first_button_link": "",
+            "first_button_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_style": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_6jnA9B",
+        "text_g4rz9V",
+        "buttons_X43Wyf"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": false,
+        "text_position": "center center",
+        "overlay": 30,
+        "image_height_large": "medium",
+        "image_height_mobile": "medium",
+        "enable_parallax": false,
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "soft_background": true,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "media_with_text_QFDb4T": {
+      "type": "media-with-text",
+      "blocks": {
+        "block_FT7MUe": {
+          "type": "block",
+          "settings": {
+            "large_layout": "text-first",
+            "mobile_layout": "text-first",
+            "image": "shopify://shop_images/GSM_CONTIGO_NPD24_Gym_Kids_Yoga_Lifestyle_Office_shooting-JULY_AUG_2023_KIDS_STUDIO_PRODUCT_SHOTS_0018.jpg",
+            "image_padding": false,
+            "video": "",
+            "video_style": "image-play",
+            "enable_parallax": false,
+            "tab_label": "",
+            "subheading": "Service",
+            "title": "Product Photography",
+            "text": "<p>Clean, conversion-ready images that showcase your product’s features, quality, and design. Ideal for e-commerce, packaging, and marketing materials</p>",
+            "text_size": "medium",
+            "first_button_label": "LEARN MORE",
+            "first_button_link": "shopify://pages/product-photography",
+            "first_button_outline_style": false,
+            "second_button_label": "VIEW PORTFOLIO",
+            "second_button_link": "shopify://pages/product-photography-portfolio",
+            "second_button_outline_style": true
+          }
+        },
+        "block_PELt3q": {
+          "type": "block",
+          "settings": {
+            "large_layout": "image-first",
+            "mobile_layout": "text-first",
+            "image": "shopify://shop_images/GSM_CONTIGO_WINTER_21-22_photography_6920.jpg",
+            "image_padding": false,
+            "video": "",
+            "video_style": "image-play",
+            "enable_parallax": false,
+            "tab_label": "",
+            "subheading": "SERVICE",
+            "title": "Lifestyle Photography",
+            "text": "<p>Real-world scenes that show your product in use—human, relatable, and on-brand. Perfect for social media, digital ads, and website hero images.</p>",
+            "text_size": "medium",
+            "first_button_label": "BOOK A FREE CONSULT",
+            "first_button_link": "shopify://pages/contact",
+            "first_button_outline_style": false,
+            "second_button_label": "VIEW PORTFOLIO",
+            "second_button_link": "shopify://pages/lifestyle-photography-portfolio",
+            "second_button_outline_style": true
+          }
+        },
+        "block_PHdfj7": {
+          "type": "block",
+          "settings": {
+            "large_layout": "text-first",
+            "mobile_layout": "text-first",
+            "image": "shopify://shop_images/GSM_BROGHAN_S_WAY_DISTILLERY_lifestyle_photography_MARCH_24-250324_0030.jpg",
+            "image_padding": false,
+            "video": "",
+            "video_style": "image-play",
+            "enable_parallax": false,
+            "tab_label": "",
+            "subheading": "SERVICE",
+            "title": "Advertising Campaigns",
+            "text": "<p>High-impact, creative direction-led shoots for promotions, launches, and brand storytelling. Whether in-studio or on-location, we build scenes that sell your vision.</p>",
+            "text_size": "medium",
+            "first_button_label": "BOOK A FREE CONSULT",
+            "first_button_link": "shopify://pages/contact",
+            "first_button_outline_style": false,
+            "second_button_label": "VIEW PORTFOLIO",
+            "second_button_link": "shopify://pages/portfolio",
+            "second_button_outline_style": true
+          }
+        },
+        "block_EecXcP": {
+          "type": "block",
+          "settings": {
+            "large_layout": "image-first",
+            "mobile_layout": "text-first",
+            "image": "shopify://shop_images/SMGBMWDEALERSHIP-BRIGHTON-AFTER.jpg",
+            "image_padding": false,
+            "video": "",
+            "video_style": "image-play",
+            "enable_parallax": false,
+            "tab_label": "",
+            "subheading": "SERVICE",
+            "title": "Corporate & Commercial Photography",
+            "text": "<p>From executive portraits to large-scale dealership and architectural shoots, we capture the essence of your business with clarity and professionalism.</p>",
+            "text_size": "medium",
+            "first_button_label": "BOOK A FREE CONSULT",
+            "first_button_link": "shopify://pages/contact",
+            "first_button_outline_style": false,
+            "second_button_label": "VIEW PORTFOLIO",
+            "second_button_link": "shopify://pages/portfolio",
+            "second_button_outline_style": true
+          }
+        },
+        "block_PcaRHh": {
+          "type": "block",
+          "settings": {
+            "large_layout": "text-first",
+            "mobile_layout": "text-first",
+            "image": "shopify://shop_images/WhitsundaysSheer_Silvergum_retouched_01_700ecfcb-99a4-4d76-81b8-9e4fa6eeccb0.jpg",
+            "image_padding": false,
+            "video": "",
+            "video_style": "image-play",
+            "enable_parallax": false,
+            "tab_label": "",
+            "subheading": "SERVICE",
+            "title": "Retouching Services",
+            "text": "<p>Great images deserve a flawless finish. Gotham Studios Melbourne offers professional photo retouching services to refine, enhance, and perfect your visuals. From subtle corrections to advanced editing, we ensure every image aligns with your brand’s style and quality.</p>",
+            "text_size": "medium",
+            "first_button_label": "LEARN MORE",
+            "first_button_link": "shopify://pages/retouching-services",
+            "first_button_outline_style": false,
+            "second_button_label": "VIEW PORTFOLIO",
+            "second_button_link": "shopify://pages/retouching-portfolio",
+            "second_button_outline_style": true
+          }
+        }
+      },
+      "block_order": [
+        "block_FT7MUe",
+        "block_PELt3q",
+        "block_PHdfj7",
+        "block_EecXcP",
+        "block_PcaRHh"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "layout": "fixed-soft",
+        "height": "medium",
+        "stack_blocks": true,
+        "center_tabs": true,
+        "padding_top": 0,
+        "padding_bottom": 1,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "media_with_text_rmJx9J",
+    "rich_text_zYMUaz",
+    "media_with_text_QFDb4T"
+  ]
+}
