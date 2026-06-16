@@ -113,7 +113,7 @@
           "settings": {
             "required": false,
             "multi_line_field": true,
-            "title": "List URL links to your brand website, brand guidelines or social media handles"
+            "title": "List URLs for your brand website, brand guidelines or social media handles (you can also email us at contact@gothamstudios.net)"
           }
         },
         "text_field_Tm9MaN": {
@@ -121,7 +121,7 @@
           "settings": {
             "required": false,
             "multi_line_field": true,
-            "title": "Photography references: List URL links to any reference images you like"
+            "title": "Photography references: List URLs for any reference images you like"
           }
         },
         "text_field_GEy4gc": {
